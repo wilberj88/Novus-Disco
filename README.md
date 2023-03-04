@@ -12,3 +12,6 @@ https://threejs.org/examples/#webgl_points_dynamic
 
 Fondo de puntos:
 https://threejs.org/examples/#webgl_interactive_points
+
+Data popularidad artistas:
+https://chartmetric.com/pricing?gclid=Cj0KCQiA9YugBhCZARIsAACXxeJA77kKtSNYC4XyfoUTH1he4K9DK6DWeT1zqyrp49qpANssJ3yp77oaAtflEALw_wcB
