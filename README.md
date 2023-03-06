@@ -4,6 +4,10 @@ Escenarios 3D:
 https://threejs.org/examples/#webaudio_orientation
 https://threejs.org/examples/#css3d_youtube
 
+
+Streamlit Visualizaciones:
+Charts: 1) WordCloud, 2) React Player
+
 Generate Music
 www.sounddraw.io
 
