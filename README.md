@@ -8,6 +8,9 @@ https://threejs.org/examples/#css3d_youtube
 Streamlit Visualizaciones:
 Charts: 1) WordCloud, 2) React Player
 
+ThreeJs:
+https://threejs.org/examples/#misc_controls_pointerlock
+
 Generate Music
 www.sounddraw.io
 
