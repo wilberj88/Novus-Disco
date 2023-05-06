@@ -13,6 +13,8 @@ https://threejs.org/examples/#misc_controls_pointerlock
 
 Generate Music
 www.sounddraw.io
+Tutorial Real Time Music Generation: https://platzi.com/clases/6935-ai/60704-hugging-face-101-spaces/ 
+Entrar a Hugging Face: Space: Riffusion real-time music generation: Ejecutar el modelo con las imágenes que querramos. Cargar código de python del modelo en nuestros propios códigos
 
 público que desaparece:
 https://threejs.org/examples/#webgl_points_dynamic
